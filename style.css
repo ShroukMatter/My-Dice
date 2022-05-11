@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    background-color:#2C394B;
+    color:#7ECA9C;
+}
+.main-header{
+    font-family: 'Berkshire Swash';
+    font-size:7rem;
+}
+.player-header{
+    font-family: 'Gloria Hallelujah', cursive;
+}
+.dice{
+    display: inline-block;
+}
+.icon{
+    color: #fff;
+}
